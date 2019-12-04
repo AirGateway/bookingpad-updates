@@ -1,19 +1,16 @@
 # Site settings
 title:          BookingPad Updates
-description:    "Minimal Jekyll theme for storytellers"
+description:    "The latest product news and updates from Bookingpad"
 url:            "https://updates.bookindpad.net/"
 theme:          tale
-permalink:      /:year-:month-:day/:title
-paginate:       5
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         BookingPad
+  url:          https://bookingpad.net
 
 # Build settings
 markdown:       kramdown

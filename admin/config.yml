@@ -3,8 +3,8 @@ backend:
   branch: master
 media_folder: 'assets/uploads'
 collections:
-  - name: 'Post'
-    label: 'Posts'
+  - name: 'Posts'
+    label: 'Post'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -22,7 +22,7 @@ collections:
     files:
       - label: 'About Page'
         name: 'about'
-        file: 'about.md'
+        file: '_pages/about.md'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'title', widget: 'hidden', default: 'about' }

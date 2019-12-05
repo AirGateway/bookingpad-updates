@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Bookingpad Updates Website
+title: 'Introducing: Bookingpad Updates Website'
 date: 2019-12-05T16:50:07.239Z
 ---
-Welcome to our new Bookingpad updates website! See here what's new and products updates.
+Welcome to our new [Bookingpad](https://bookingpad.net) updates website! See here what's new and products updates.
 
 ## Site features
 
@@ -13,6 +13,6 @@ Welcome to our new Bookingpad updates website! See here what's new and products 
 * New product features
 * And a lot more...
 
-We hope this website will help you get the latest and the fresh news and updates on Bookingpad app. If you have feedback or comments, please let us know!
+We hope this website will help you get the latest and the fresh news and updates on [Bookingpad](https://bookingpad.net) app. If you have feedback or comments, please let us know!
 
-Thanks for checking out Tale!
+Thanks for checking out!

@@ -41,7 +41,7 @@
   }
 
   ul {
-      margin-bottom: 1rem;
+    margin-bottom: 1rem;
     @media (min-width: 600px) {
       margin-top: 0;
       padding: 0;
@@ -50,8 +50,18 @@
 }
 
 .catalogue {
+  &-title {
+    margin: 0 0 0.5rem;
+    letter-spacing: -0.01rem;
+  }
 
-    &-time {
-        text-transform: uppercase;
-    }
+  &-time {
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+
+  &-desc {
+    font-size: 1.2rem;
+  }
 }

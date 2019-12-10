@@ -13,6 +13,6 @@ Once this is triggered, agent gets a re-shop modal window to select new date(s) 
 
 ![Offer Reshop modal window](/assets/uploads/airgateway_ndc_booking_tool-change-itinerary-view.png "Offer Reshop modal window")
 
-Finally, the new offer including the change price is displayed to the agent who can confirm or cancel de Order change.
+Finally, the new offer including the change price is displayed to the agent who can confirm de Order change and the payment (if applicable).
 
-![]()
+![Order Dates Change confirmation window](/assets/uploads/orderchange-confirmation-view.png "Order Dates Change confirmation window")

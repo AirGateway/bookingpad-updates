@@ -1,9 +1,9 @@
 ---
 permalink: /about/
 layout: default
-author: "Jekyll"
 title: About Bookingpad
 ---
+
 [Bookingpad](https://bookingpad.net/) is the most advanced NDC-ready booking tool for travel agents
 
 ## Comprehensive shopping, booking, and servicing for all NDC airlines in one single tool

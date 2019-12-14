@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download PDF feature allows now selecting the information to include
-date: 2019-12-10T22:43:37.488Z
+date: 2019-12-06T22:43:37.488Z
 ---
 We have introduced the capability to select the information included in the download PDF feature.
 

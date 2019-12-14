@@ -9,7 +9,7 @@ This feature can be found in the top-right corner of an issued Order.
 
 ![Feature NDC Bookings export to file](/assets/uploads/airgateway_ndc_booking_tool-export-to-file.png "Feature NDC Bookings export to file")
 
-We currently support two formats:
+We currently support these formats:
 
 * AIR (Amadeus Interface Record)
 * Galor (Travelbooster)

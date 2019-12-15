@@ -1,6 +1,6 @@
 # Site settings
-title:          Product Updates
-description:    "The latest product news and updates from Bookingpad"
+title:          Bookingpad Product Updates
+description:    "The latest product news and updates from Bookingpad, the most advanced NDC-ready booking tool"
 url:            "https://updates.bookindpad.net/"
 theme:          tale
 
@@ -9,8 +9,8 @@ google_analytics: UA-77281199-7
 
 # Author
 author:
-  name:         BookingPad
-  url:          https://bookingpad.net
+  name:         AirGateway GmbH
+  url:          https://airgateway.com
 
 # Build settings
 markdown:       kramdown

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Identifying Private Fares in an NDC Offer
+title: Requesting and Identifying Private Fares in an NDC Offer
 date: 2020-02-07T14:22:44.397Z
 ---
 We have released in production the ability to request, identify, and filter adequately private fares from NDC APIs already supporting this feature.

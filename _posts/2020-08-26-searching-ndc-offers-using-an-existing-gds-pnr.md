@@ -23,7 +23,7 @@ Let's take this fictional PNR (Amadeus format)
 17 FT *IT9UX1FE14BX
 ```
 
-Then in Bookingpad, we need to switch the search mode to `PNR Search` by selecting this dropdown menu placed at the top-left of the GUI.
+Then in Bookingpad, we need to switch the search mode to **PNR Search** by selecting this dropdown menu placed at the top-left of the GUI.
 
 ![Bookingpad PNR Search Menu](/assets/uploads/bookingpad_pnr_search-menu.png "Bookingpad PNR Search - Menu selection")
 
@@ -33,7 +33,7 @@ Then the agent only needs to paste the entire PNR text ensuring not to corrupt a
 
 Bookingpad will instantly identify the parameters (O&D, passengers, dates, and flights for the originating shopping search for the NDC interface.
 
-By clicking the \*\*Search\*\* button this will bring us directly in a matter of 4-5 seconds to the NDC offer matching the criteria if this matches any NDC offer among the enabled providers/airlines.
+By clicking the **Search** button this will bring us directly in a matter of 4-5 seconds to the NDC offer matching the criteria if this matches any NDC offer among the enabled providers/airlines.
 
 These results will include all the cabins and fares combinations delivered by the originating provider/airline in order to facilitate selecting the right fare for the customer.
 
